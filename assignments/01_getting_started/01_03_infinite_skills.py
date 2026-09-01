@@ -1,1 +1,1 @@
-#I have no programming experiences so i hope to learn as much as i can this semester
+#I have no programming experiences so i hope to learn as much as i can this semester I also wanted to see how i can benefit by programming my own game and build my abilities to code and program a new system. I think python is an easy system to work with but a little bit more on the difficult side as well but will also test my abilities to see what I can do.

@@ -1,1 +1,1 @@
-#I like the website and how it helps you code and how its the official website for coding and benefits learners trying to code
+#I like the website and how it helps you code and how its the official website for coding and benefits learners trying to code, I also like how it helps with user data and data analysis by helping beginner to expert programmers build their portfolios and help them get experienced in python. And it uses Artificial intelligence to support the builds and programs to make them more proficient.
