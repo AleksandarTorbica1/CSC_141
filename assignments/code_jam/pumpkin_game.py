@@ -14,7 +14,7 @@ face_2 = pygame.transform.scale(face_2, (200,200))
 faces = [face_1, face_2]
 
 screen = pygame.display.set_mode((950,540))
-current = 0          
+current = 0
 melt = 0
 melting = False
 
